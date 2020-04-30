@@ -1,0 +1,3 @@
+[submodule "jordiprofile/themes/anatole"]
+	path = jordiprofile/themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
